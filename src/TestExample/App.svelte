@@ -151,7 +151,7 @@
 	<div class="header-overlay"></div>
 	<div class="header-content">
 		<h1 class="main-title">Timeline to the Future</h1>
-		<h2 class="sub-title">Martina and Rosario // May 2025</h2>
+		<h2 class="sub-title">Martina and Rosario</h2>
 	</div>
 </div>
 
@@ -184,6 +184,23 @@
 		<p class="content-paragraph">Four key elements are shaping our trajectory: computational power that continues to advance exponentially; connectivity that dissolves traditional boundaries between people and organizations; intelligence systems that augment human capabilities; and sustainability imperatives that redirect technological development toward preserving our planetary home.</p>
 		<p class="content-paragraph">Each visualization in this exploration represents a different dimension of this complex evolutionary process. Together, they offer a glimpse into not just what might happen, but how and why these changes will transform our world.</p>
 	</div>
+</div>
+
+<!-- 
+// ===================================================================
+// DATAWRAPPER IFRAME - BROWSER TRENDS
+// Interactive visualization showing browser market share changes
+// ===================================================================
+-->
+<div class="content-container">
+	<h2>The Evolution of Digital Tools</h2>
+	<p class="content-paragraph">The rise of Google Chrome illustrates how quickly digital landscapes can transform when innovative approaches meet user needs. This pattern of rapid adoption reflects broader trends in how technologies establish new standards and reshape industries.</p>
+	<div class="datawrapper-container">
+		<iframe title="The rise of Google Chrome" aria-label="Interactive line chart" id="datawrapper-chart-Beu4R" src="https://datawrapper.dwcdn.net/Beu4R/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="421" data-external="1"></iframe>
+		<script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+		</script>
+	</div>
+	<p class="content-paragraph">Market disruptions like this demonstrate how user preferences can rapidly consolidate around superior experiences. The ability to anticipate and adapt to these transitions is becoming a critical skill for organizations and individuals in our accelerating technological environment.</p>
 </div>
 
 <!-- 
