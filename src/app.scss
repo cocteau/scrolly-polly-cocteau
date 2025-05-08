@@ -16,7 +16,7 @@
 }
 
 :global(body) {
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Nunito', sans-serif;
   position: relative;
 }
 
@@ -25,7 +25,8 @@
 // Global typography settings for headings and base text
 // ===================================================================
 :global(h1), :global(h2), :global(h3), :global(h4), :global(h5), :global(h6) {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
 }
 
 // ===================================================================
@@ -145,7 +146,7 @@
 }
 
 .initial-state p {
-  font-family: 'Instrument Serif', serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 2rem;
   color: #333;
   text-align: center;
@@ -204,15 +205,15 @@
 .fullscreen-chapter h2 {
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
-  font-family: 'Instrument Serif', serif !important;
-  font-weight: 500;
+  font-family: 'Nunito', sans-serif !important;
+  font-weight: 700;
 }
 
 .fullscreen-chapter ul {
   font-size: 1.2rem;
   line-height: 1.6;
   margin-bottom: 1rem;
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-weight: 400;
 }
 
@@ -225,7 +226,7 @@
 // Hero section with background image and title overlay
 // ===================================================================
 .header-image {
-  background-image: url('../src/TestExample/Images/placeholder-19201080.png');
+  background-image: url('https://imageio.forbes.com/specials-images/imageserve/1093311942/Young-woman-looking-over-the-City-of-London-at-sunset--Future--new-business/960x0.jpg?format=jpg&width=1440');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -254,14 +255,15 @@
 }
 
 .main-title {
-  font-family: 'Instrument Serif', serif !important;
+  font-family: 'Nunito', sans-serif !important;
   font-size: 4rem;
   margin-bottom: 1rem;
+  font-weight: 800;
   text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.5);
 }
 
 .sub-title {
-  font-family: 'Fira Sans', sans-serif !important;
+  font-family: 'Nunito', sans-serif !important;
   font-size: 1.5rem;
   font-weight: 400;
   margin-top: 0;
@@ -324,7 +326,7 @@
 }
 
 .content-paragraph {
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 1.1rem;
   line-height: 1.6;
   margin: 0 0 1.25rem 0;
@@ -388,7 +390,7 @@
   line-height: 1.2;
   color: #000;
   font-weight: bold;
-  font-family: 'Fleur De Leah', cursive !important;
+  font-family: 'Nunito', sans-serif !important;
 }
 
 .album {
@@ -428,7 +430,7 @@
 }
 
 .map-container h2 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 2.5rem;
   margin-bottom: 2rem;
   text-align: center;
@@ -444,7 +446,7 @@
   color: #fff;
   padding: 3.75rem 0;
   width: 100%;
-  font-family: 'Space Mono', monospace;
+  font-family: 'Nunito', sans-serif;
 }
 
 .footer-container {
@@ -459,7 +461,7 @@
 }
 
 .footer-heading {
-  font-family: 'Space Mono', monospace;
+  font-family: 'Nunito', sans-serif;
   font-size: 1.5rem;
   margin-bottom: 1.25rem;
   font-weight: 700;
